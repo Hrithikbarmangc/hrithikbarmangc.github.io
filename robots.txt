@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://barman_hrithik.github.io/sitemap.xml
+Sitemap: https://Hrithikbarmangc.github.io/sitemap.xml
